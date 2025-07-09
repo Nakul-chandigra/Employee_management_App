@@ -17,7 +17,5 @@ namespace practice_1.model
         public int Status { get; set; }
 
 
-
-
     }
 }
